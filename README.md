@@ -63,6 +63,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+<img width="1216" height="857" alt="image" src="https://github.com/user-attachments/assets/0df94939-5a30-4716-aeae-d1be1c1c6da9" />
+
 [Ex 6.1.pdf](https://github.com/user-attachments/files/24348905/Ex.6.1.pdf)
 
 ## RESULT:
